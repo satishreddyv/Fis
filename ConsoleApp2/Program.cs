@@ -7,6 +7,9 @@ using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 using Microsoft.Xrm.Tooling.Connector;
 
+    //CrmSvcUtil.exe / url:https://dynamicslabs2.api.crm8.dynamics.com/XRMServices/2011/Organization.svc    /out:Xrm.cs /username:satish@dynamicslabs2.onmicrosoft.com /password:Pearl@123    /serviceContextName:svcContext
+
+
 namespace ConsoleApp2
 {
     class Program
