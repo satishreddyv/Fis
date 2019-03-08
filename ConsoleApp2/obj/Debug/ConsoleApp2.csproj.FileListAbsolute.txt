@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Admin\source\repos\FiServ\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
