@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\FiServ\MyPlugins\bin\Debug\MyPlugins.dll
+C:\Users\Admin\source\repos\FiServ\MyPlugins\bin\Debug\MyPlugins.pdb
+C:\Users\Admin\source\repos\FiServ\MyPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Admin\source\repos\FiServ\MyPlugins\obj\Debug\MyPlugins.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FiServ\MyPlugins\obj\Debug\MyPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FiServ\MyPlugins\obj\Debug\MyPlugins.csproj.CopyComplete
+C:\Users\Admin\source\repos\FiServ\MyPlugins\obj\Debug\MyPlugins.dll
+C:\Users\Admin\source\repos\FiServ\MyPlugins\obj\Debug\MyPlugins.pdb
