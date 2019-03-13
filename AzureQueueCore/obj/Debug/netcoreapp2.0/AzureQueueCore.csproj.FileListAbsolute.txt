@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\bin\Debug\netcoreapp2.0\AzureQueueCore.deps.json
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\bin\Debug\netcoreapp2.0\AzureQueueCore.runtimeconfig.json
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\bin\Debug\netcoreapp2.0\AzureQueueCore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\bin\Debug\netcoreapp2.0\AzureQueueCore.dll
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\bin\Debug\netcoreapp2.0\AzureQueueCore.pdb
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.dll
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.pdb
+C:\Users\Admin\source\repos\AzurePlugins\AzureQueueCore\obj\Debug\netcoreapp2.0\AzureQueueCore.csprojAssemblyReference.cache
